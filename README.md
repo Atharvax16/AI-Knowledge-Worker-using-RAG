@@ -32,5 +32,5 @@ This project demonstrates how **knowledge workers** can leverage **Large Languag
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/Atharvax16/llm-rag-knowledge-worker.git
-   cd llm-rag-knowledge-worker
+   git clone https://github.com/Atharvax16/AI-Knowledge-Worker-using-RAG.git
+   cd AI-Knowledge-Worker-using-RAG
