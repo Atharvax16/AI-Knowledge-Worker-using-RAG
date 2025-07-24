@@ -28,6 +28,16 @@ This project demonstrates how **knowledge workers** can leverage **Large Languag
 
 ---
 
+ Example Use Cases
+📊 Analyst searching through quarterly reports
+
+📁 Legal team extracting clauses from contracts
+
+🧪 Researcher summarizing academic papers
+
+🧑‍💼 HR team querying company policies or employee handbooks
+
+
 ## 📥 Installation
 
 1. Clone this repo:
